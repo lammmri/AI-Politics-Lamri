@@ -116,13 +116,10 @@ Jika Anda memiliki pertanyaan, ide, atau ingin berdiskusi tentang proyek ini, si
 
 - **Buka *issue* di GitHub**  
 - **Bergabung dalam forum diskusi atau komunitas AI & politik**  
-- **Kirim email ke [email Anda jika ingin mencantumkan kontak]**  
+- **Kirim email ke [jamurkampus@gmail.com]**  
 
 ---
 
-## 📜 **Lisensi**
-Proyek ini berlisensi di bawah [MIT License](LICENSE), yang berarti bebas digunakan dan dikembangkan oleh siapa saja dengan tetap mencantumkan atribusi.
 
----
 
 🔥 **AI Politics - Lamri: Mengintegrasikan AI dalam Strategi Politik Masa Depan!** 🔥
